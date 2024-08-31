@@ -1,3 +1,4 @@
-## Hi there 👋
-
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Atritium&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Atritium's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atritium&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+## 👋 Hey! I'm manqi.</h2>
+- **[Blog](https://atritium.github.io/)**
+- **[BiliBili](https://space.bilibili.com/272498370?spm_id_from=333.1007.0.0)**
+- **[机核](https://www.gcores.com/users/456990/talks)**
